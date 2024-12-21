@@ -12,4 +12,4 @@ Currently, two official plugins are available:
 TECH USE : react , taiwlind 
 THIRD PARTY API : newsAPI , OpenWeather, Leaflet, ApacheCharts
  Weather app where user can select any city , get latest news , temperature , MAP etc ...
->>>>>>> b54607798a0590b48beeef7e86932a5010f362f8
+![Image Description](src/assets/demo.png)
